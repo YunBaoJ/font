@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'HYRunYuan-65J';
+    src: url('HYRunYuan-FEW.eot');
+    src: url('HYRunYuan-FEW.eot?#iefix') format('embedded-opentype'),
+        url('HYRunYuan-FEW.woff2') format('woff2'),
+        url('HYRunYuan-FEW.woff') format('woff'),
+        url('HYRunYuan-FEW.ttf') format('truetype'),
+        url('HYRunYuan-FEW.svg#HYRunYuan-FEW') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
